@@ -1,0 +1,6 @@
+It is a guessing game in which the players are given a game board consisting of pairs of cards, and they must find the pairs.
+All the data (the size of the board, the number and names of the players, the cards themselves and their positions) are received as command line arguments.
+The command line should be written in the following format:
+<board_dim> <num_players> <player-1>#<player-2>#...#<player-m> <object-1> <object-2> … <object-n2⁄2> <pos-1> <pos-2> … <pos-n2>
+
+This code was written in C as an assignment for 'Introduction to Computer Science' course
