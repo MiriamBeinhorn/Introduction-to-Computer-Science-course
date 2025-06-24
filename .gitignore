@@ -1,0 +1,13 @@
+# Ignore CLion/IntelliJ IDE config folders
+.idea/
+
+# Ignore CMake build directory
+cmake-build-debug/
+
+# Ignore compiled object files and executables
+*.o
+*.out
+*.exe
+
+# Ignore backup files
+*~
